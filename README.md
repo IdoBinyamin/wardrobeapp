@@ -16,9 +16,9 @@ Before running the project, ensure you have the following installed:
 Node.js
 Expo CLI (you can install it globally with npm install -g expo-cli)
 # Installation
-1.Clone the project repository from GitHub.
-2.Navigate to the project directory in your terminal.
-3.Run npm install to install the required dependencies.
+1. Clone the project repository from GitHub.
+2. Navigate to the project directory in your terminal.
+3. Run npm install to install the required dependencies.
 
 # Running the App
 
