@@ -3,24 +3,24 @@ Wardrobe App is a React Native Expo project that allows users to choose three ty
 
 #  Table of Contents
 * Getting Started
- * Prerequisites
- * Installation
- * Running the App
+  * Prerequisites
+  * Installation
+  * Running the App
 * Features
 * Technologies Used
 
 # Getting Started
-# Prerequisites
+## Prerequisites
 Before running the project, ensure you have the following installed:
 
 * Node.js
 * Expo CLI (you can install it globally with npm install -g expo-cli)
-# Installation
+## Installation
 1. Clone the project repository from GitHub.
 2. Navigate to the project directory in your terminal.
 3. Run npm install to install the required dependencies.
 
-# Running the App
+## Running the App
 
 To start the app locally, follow these steps:
 
