@@ -8,9 +8,7 @@ Wardrobe App is a React Native Expo project that allows users to choose three ty
 * Running the App
 * Features
 * Technologies Used
-* Screenshots
-* Contributing
-* License
+
 # Getting Started
  Prerequisites
 Before running the project, ensure you have the following installed:
