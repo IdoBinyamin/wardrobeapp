@@ -29,7 +29,10 @@ To start the app locally, follow these steps:
 3. Use the Expo Go app on your Android or iOS device to scan the QR code shown in the terminal. Alternatively, you can use an Android or iOS simulator to run the app on your computer.
  
 # Features
-Allows users to choose three types of clothes: shirts, pants, and shoes.
+* Allows users to choose three types of clothes: shirts, pants, and shoes.
+* When a full set of clothes (shirt, pants, and shoes) is selected, the user can move to the finish screen.
+* In the finish screen, the user can choose to create a new set and repeat the process.
+  
 # Technologies Used
 This project is built using the following technologies:
 
