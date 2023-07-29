@@ -1,6 +1,9 @@
 # Wardrobe App
 Wardrobe App is a React Native Expo project that allows users to choose three types of clothes: shirts, pants, and shoes.
 
+![enter image description here](https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-znPq00-rwzYnTovmG3gDATPMNTTdEDJtY0mWz-vSBCwOtfC0gY_l5Mtz9-zQt3p7-0DBl2aiYAGP8Ot1ThYmxCB7bfaQ=w1920-h893)
+
+
 # Getting Started
 ## Prerequisites
 Before running the project, ensure you have the following installed:
@@ -29,4 +32,3 @@ This project is built using the following technologies:
 * JavaScript
 * Redux
 * Redux-Saga
-![enter image description here](https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-znPq00-rwzYnTovmG3gDATPMNTTdEDJtY0mWz-vSBCwOtfC0gY_l5Mtz9-zQt3p7-0DBl2aiYAGP8Ot1ThYmxCB7bfaQ=w1920-h893)
